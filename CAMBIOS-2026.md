@@ -2,7 +2,7 @@
 
 > Esta rama es el mismo curso —el Bootcamp de Unity (seis juegos)—, preparada para abrirse con **Unity 6**. La rama
 > principal sigue exactamente como en el vídeo.
-> Revisado contra el código fuente de Unity 6, pero todavía no se ha abierto en el editor: es un salto grande (de Unity 5.6 a Unity 6). Si algo no abre o no compila, cuéntalo en la comunidad del curso.
+> Revisado contra el código fuente de Unity 6 y **comprobado abriendo los proyectos en el editor de Unity 6** (octubre de 2026). Si algo no abre o no compila, cuéntalo en la comunidad del curso.
 
 ## Cómo usarla
 
